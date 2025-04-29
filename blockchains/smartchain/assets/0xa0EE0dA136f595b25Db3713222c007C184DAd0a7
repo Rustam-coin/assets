@@ -1,0 +1,9 @@
+[
+  {
+    "name": "MyToken",
+    "symbol": "MTK",
+    "address": "0xa0ee0da136f595b25db3713222c007c184dad0a7",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xa0ee0da136f595b25db3713222c007c184dad0a7/logo.png"
+  }
+]
